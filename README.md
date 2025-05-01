@@ -20,7 +20,7 @@
 
 ## 📖 About The Project
 
-This repository contains the implementation of a smart electricity consumption monitoring system developed during the **Internet of Things** course in the Spring semester of 2021 at **[Your Institution Name]**. The system focuses on real-time monitoring of electricity usage through an online platform, leveraging **LoRa** communication technology and a mesh network architecture to enable efficient data collection and analysis.
+This repository contains the implementation of a smart electricity consumption monitoring system developed during the **Internet of Things** course in the Spring semester of 2021 at **Isfahan university of technology**. The system focuses on real-time monitoring of electricity usage through an online platform, leveraging **LoRa** communication technology and a mesh network architecture to enable efficient data collection and analysis.
 
 ---
 
